@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FolderComp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FolderComp_jar</output-path>
+    <root id="archive" name="FolderComp.jar">
+      <element id="module-output" name="FolderComp" />
+    </root>
+  </artifact>
+</component>
